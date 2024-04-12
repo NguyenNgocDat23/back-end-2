@@ -1,2 +1,4 @@
 tạo file week1
 thuoc main heheheh
+thuoc file main
+thuoc week1
